@@ -15,7 +15,7 @@ GAIIC-图文匹配， 初赛Rank 5， 复赛Rank 20， HAHEHA代码;
 
 1. 使用mlm的方式对huggingface transformer的uclanlp/visualbert-vqa-coco-pre模型进行了预训练
 2. 使用mlm的方式对huggingface transformer的chinese-roberta-wwm-ext进行预训练
-3. 使用mlm的方式对nezha-base-chinese进行预训练，可通过https://github.com/lonePatient/NeZha_Chinese_PyTorch获得。
+3. 使用mlm的方式对nezha-base-chinese进行预训练，可通过https://github.com/lonePatient/NeZha_Chinese_PyTorch 获得。
 
 此外，上述预训练方式都在本赛题的数据上进行了进一步的预训练。
 
